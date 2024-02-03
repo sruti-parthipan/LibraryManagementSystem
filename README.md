@@ -23,6 +23,10 @@ The Library Management System (LMS) employing Merge Sort is a Java-based applica
 - **Programming Language:** Java
 - **Sorting Algorithm:** Merge Sort for efficient sorting of book catalog data
 - **Data Structures:** Java Collections for managing book and user information
+  
+## OUTPUT IMAGES
+![image](https://github.com/sruti-parthipan/LibraryManagementSystem/assets/140324166/561ba4ef-8f11-47f4-b470-887ee3295764)
+
 
 
 
