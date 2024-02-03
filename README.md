@@ -2,7 +2,7 @@
 
 ## Description
 
-The Library Management System (LMS) employing Merge Sort is a Java-based application designed to efficiently manage library operations by implementing the divide-and-conquer algorithm. This system enhances book cataloging, user management, and borrowing/returning of books through the application of the Merge Sort algorithm for optimized data organization and retrieval.
+The Library Management System (LMS) employing Merge Sort is a Java-based application designed to efficiently manage library operations by implementing the divide-and-conquer algorithm. This system enhances book cataloging, user management, and displaying names of books through the application of the Merge Sort algorithm for optimized data organization and retrieval.
 
 ## Features
 
