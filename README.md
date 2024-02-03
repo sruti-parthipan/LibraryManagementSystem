@@ -6,15 +6,13 @@ The Library Management System (LMS) employing Merge Sort is a Java-based applica
 
 ## Features
 
-1. **User Authentication:** Secure login system for librarians and users to ensure data privacy.
+1. **Book Cataloging:** Comprehensive cataloging of books, utilizing the Merge Sort algorithm for efficient sorting and retrieval.
 
-2. **Book Cataloging:** Comprehensive cataloging of books, utilizing the Merge Sort algorithm for efficient sorting and retrieval.
+2. **User Management:** Efficient management of user information, including registration, updating details, and tracking borrowing history.
 
-3. **User Management:** Efficient management of user information, including registration, updating details, and tracking borrowing history.
+3. **Borrowing and Returning:** Streamlined processes for users to borrow and return books, with real-time updates to book availability.
 
-4. **Borrowing and Returning:** Streamlined processes for users to borrow and return books, with real-time updates to book availability.
-
-5. **Advanced Search and Filtering:** Merge Sort implementation for optimizing the display of cataloged books and enabling advanced search capabilities.
+4. **Advanced Search and Filtering:** Merge Sort implementation for optimizing the display of cataloged books and enabling advanced search capabilities.
 
 
 
